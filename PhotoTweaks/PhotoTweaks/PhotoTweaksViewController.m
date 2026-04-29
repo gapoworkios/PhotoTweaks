@@ -9,7 +9,6 @@
 #import "PhotoTweaksViewController.h"
 #import "PhotoTweakView.h"
 #import "UIColor+Tweak.h"
-#import <AssetsLibrary/AssetsLibrary.h>
 
 @interface PhotoTweaksViewController ()
 
